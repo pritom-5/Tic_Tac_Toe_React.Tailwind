@@ -14,6 +14,7 @@ One page two player game made with JS framework react and styled with CSS framew
 <img src="./screenshots/1.png" width="480" />
 
 <br/>
+
 - This board will be shown after every load and restarting session.
 
 <br/>
@@ -24,6 +25,7 @@ One page two player game made with JS framework react and styled with CSS framew
 <img src="./screenshots/2.png" width="480" />
 
 <br/>
+
 - First turn will start with cross follwed by tick.
 
 <br/>
@@ -34,6 +36,7 @@ One page two player game made with JS framework react and styled with CSS framew
 <img src="./screenshots/3.png"  width="480" />
 
 <br/>
+
 - Winner will be checked after every inputs.
 - Turn will be interchanged after every turn.
 
@@ -45,7 +48,9 @@ One page two player game made with JS framework react and styled with CSS framew
 <img src="./screenshots/5.png"  width="480" />
 
 <br/>
+
 - After clicking restart game will start again.
+
 <br/>
 <br/>
 
