@@ -76,7 +76,7 @@ function App() {
           id="modal"
           className="bg-purple-400 bg-opacity-5 absolute top-0 left-0 min-h-screen min-w-full backdrop-blur-md"
         >
-          <div className="bg-purple-900 max-w-fit py-8 px-16 text-orange-300 font-bold text-3xl rounded-xl text-center absolute top-16 left-1/2 -translate-x-1/2">
+          <div className="bg-purple-900 max-w-fit py-16 px-16 text-orange-300 font-bold text-3xl rounded-xl text-center absolute top-16 left-1/2 -translate-x-1/2">
             <div className="text-2xl">Game Over</div>
             <div className="text-4xl">{gameState.gameOverLogic.message}</div>
             <div

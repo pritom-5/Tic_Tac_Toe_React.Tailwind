@@ -11,7 +11,7 @@ One page two player game made with JS framework react and styled with CSS framew
 ### Empty Board:
 
 <br/>
-<img src="./screenshots/1.png" width="270" />
+<img src="./screenshots/1.png" width="480" />
 
 <br/>
 - This board will be shown after every load and restarting session.
@@ -21,7 +21,7 @@ One page two player game made with JS framework react and styled with CSS framew
 ### First Turn:
 
 <br/>
-<img src="./screenshots/2.png" width="270" />
+<img src="./screenshots/2.png" width="480" />
 
 <br/>
 - First turn will start with cross follwed by tick.
@@ -31,7 +31,7 @@ One page two player game made with JS framework react and styled with CSS framew
 ### Alternting Turns:
 
 <br/>
-<img src="./screenshots/3.png"  width="270" />
+<img src="./screenshots/3.png"  width="480" />
 
 <br/>
 - Winner will be checked after every inputs.
@@ -42,7 +42,7 @@ One page two player game made with JS framework react and styled with CSS framew
 ### Winner Message Modal:
 
 <br/>
-<img src="./screenshots/4.png"  width="270" />
+<img src="./screenshots/5.png"  width="480" />
 
 <br/>
 - After clicking restart game will start again.
