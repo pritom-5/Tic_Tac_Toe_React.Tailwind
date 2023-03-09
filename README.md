@@ -4,6 +4,16 @@ One page two player game made with JS framework react and styled with CSS framew
 
 ---
 
+## App Demo:
+
+<br/>
+
+![tic-tac-toe-demo](screenshots/tic-tac-toe_002.gif)
+
+<br/>
+
+---
+
 ## Preview images:
 
 <br/>

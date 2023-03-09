@@ -14,7 +14,7 @@ function Item({ objKey, index, value }) {
   return (
     <div
       onClick={clickHandler}
-      className="bg-purple-600 h-24 aspect-square rounded-xl border-yellow-500 border-2 shadow-inner"
+      className="bg-purple-600 h-24 aspect-square rounded-xl border-yellow-500 border-2 shadow-inner hover:bg-transparent"
     >
       {svg}
     </div>
